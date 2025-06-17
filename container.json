@@ -1,0 +1,10 @@
+[
+  {
+    "Description": "ubuntu",
+    "Format": "vmdk",
+    "UserBucket": {
+      "S3Bucket": "server-migration123",
+      "S3Key": "Ubuntu 22.04-disk001.vmdk"
+    }
+  }
+]
