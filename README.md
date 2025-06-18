@@ -67,7 +67,7 @@ ________________________________________
 7. Run the EC2 Import Command
 	- Execute the following AWS CLI command:
 		bash
-		aws ec2 import-image --disk-containers "file:<path of container.json>" --role myImpExpRole
+		- aws ec2 import-image --disk-containers "file://E:\Migration\container.json" --role myImpExpRole
 ________________________________________
 8. Monitor Import Status
 
